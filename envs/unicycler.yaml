@@ -1,0 +1,6 @@
+name: unicycler
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - unicycler=0.4.7
